@@ -25,6 +25,10 @@ description: >- # used by seo meta and the atom feed
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://blog.ruudjuffermans.nl"
 
+# The main site this blog belongs to; shown as a sidebar item (_includes/sidebar.html).
+portfolio_url: "https://ruudjuffermans.nl"
+portfolio_title: Portfolio
+
 github:
   username: ruud-juffermans # change to your GitHub username
 

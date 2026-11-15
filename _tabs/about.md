@@ -3,7 +3,8 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-I'm Ruud, a data engineer based in the Netherlands.
+I'm Ruud, a data engineer based in the Netherlands. This blog is part of my
+portfolio at [ruudjuffermans.nl](https://ruudjuffermans.nl).
 
 At the Noord-Holland police unit I set up data-driven working in a team that
 didn't have it yet. I mapped the data sources, built pipelines in Python and
@@ -53,5 +54,6 @@ Posts follow whatever I have been building:
 
 Questions and corrections are both welcome.
 
+- **Portfolio**: [ruudjuffermans.nl](https://ruudjuffermans.nl)
 - **GitHub**: [ruud-juffermans](https://github.com/ruud-juffermans)
 - **LinkedIn**: [r-j3](https://www.linkedin.com/in/r-j3)
