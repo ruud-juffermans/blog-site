@@ -1,0 +1,13 @@
+.git
+.github
+.devcontainer
+.vscode
+.jekyll-cache
+.bundle
+_site
+vendor
+node_modules
+Gemfile.lock
+docker-compose.yml
+Dockerfile
+README.md

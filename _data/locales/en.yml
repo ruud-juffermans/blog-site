@@ -1,0 +1,3 @@
+# Merged over the theme's locale file; adds the custom Projects tab.
+tabs:
+  projects: Projects
